@@ -8,4 +8,4 @@
 |GD03|About augmentation|||
 |GD04|apply flip, brightness, mixup, cutmix to resnet50|[[link]](https://github.com/minigoom/Aiffel-project/blob/main/Going%20deeper/GD04_augmentation%2Ccutmix%2C%20mixup%20with%20resnet50.ipynb)||
 |GD05|CAM, grad-GAM|||
-|GD06|CAM, grad-CAM code review|||
+|GD06|CAM, grad-CAM code review|[[link]](https://github.com/minigoom/Aiffel-project/blob/main/Going%20deeper/GD06_CAM%2C%20grad-CAM.ipynb)||
